@@ -21,6 +21,7 @@ Title: Содержание
 ### [Базы данных: автополя](modules/db/auto.md)
 ### [Базы данных: пагинация](modules/db/pagination.md)
 ### [Базы данных: контроль доступа](modules/db/access_control.md)
+### [Базы данных: дельта-запросы](modules/db/delta.md)
 ### [Базы данных: sqlite](modules/db/sqlite.md)
 ### [Базы данных: PostgreSQL](modules/db/postgres.md)
 ### [Полнотекстовый поиск](modules/db/search.md)
